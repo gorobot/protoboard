@@ -1,0 +1,8 @@
+{
+  "atom-text-editor": {
+    "shift-cmd-C": "protoboard:copy",
+    "shift-cmd-X": "protoboard:swap",
+    "shift-cmd-A shift-cmd-C": "protoboard:copy-all",
+    "shift-cmd-A shift-cmd-X": "protoboard:swap-all"
+  }
+}
