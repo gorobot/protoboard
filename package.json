@@ -1,6 +1,6 @@
 {
   "name": "protoboard",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A code prototyping tool for human productivity.",
   "main": "./lib/protoboard.js",
   "scripts": {
